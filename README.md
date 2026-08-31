@@ -1,6 +1,6 @@
-# Angetic Essence PWA
+# Agentic Essence PWA
 
-Mobile Progressive Web App (PWA) version of [Angetic Essence](https://laikaseriousjames-barkdog.github.io/Angetic-Essence/).
+Mobile Progressive Web App (PWA) version of [Agentic Essence](https://laikaseriousjames-barkdog.github.io/Agentic-Essence/).
 
 ## Features
 - Installable on Android (Add to Home Screen)
